@@ -1,0 +1,21 @@
+.numberClose{
+    display: inline-block;
+
+
+}
+.wrapper{
+    display: grid;
+   grid-template-columns: repeat(10,10%);
+
+}
+.card{
+    background: wheat;
+    display: inline-block;
+    border: 1px;
+    border: 2px dotted;
+    border: medium dashed green;
+}
+img{
+    width: 130px;
+    height: 130px;
+}
